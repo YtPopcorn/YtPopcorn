@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @YtPopcorn
-- 👀 I’m interested in coding and building cool things
+- 👋 Hi, I’m @YtPopcorn.
+- 👀 I’m interested in coding and building cool things.
 - 🌱 I’m currently learning to code.
-- 💞️ I’m looking to collaborate on coding projects
+- 💞️ I’m looking to collaborate on coding projects.
 - 📫 How to reach me. You can reach me on Instagram @ytpopcorn73
 
 <!---
